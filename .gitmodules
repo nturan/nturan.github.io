@@ -1,3 +1,6 @@
 [submodule "gravitation"]
 	path = gravitation
 	url = https://github.com/nturan/gravitation.git
+[submodule "control_theory"]
+	path = control_theory
+	url = https://github.com/nturan/control_theory.git
